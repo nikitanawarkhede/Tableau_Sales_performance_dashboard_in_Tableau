@@ -1,2 +1,2 @@
-# Tableau_Sales_performance_dashboard_in_Tableau
+# Tableau Sales performance dashboard in Tableau
 performance dashboard
